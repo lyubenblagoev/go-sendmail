@@ -1,0 +1,4 @@
+{
+    "server": "mail.example.com:25",
+    "defaultSender": "sender@example.com"
+}
